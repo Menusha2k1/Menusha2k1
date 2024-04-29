@@ -1,3 +1,5 @@
+
+<div align="center"><img  src="https://asciinema.org/a/375254 375254.gif" width="500px"></div>
 <div align="center"><img  src="https://github.com/Menusha2k1/Menusha2k1/blob/main/Images/Untitled-1.png" width="500px"></div>
 <h1 align="center">Hi 👋, I'm Menusha</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
@@ -46,5 +48,6 @@
  </p>
   
   </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=menusha2k1&show_icons=true&locale=en" alt="menusha2k1" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=menusha2k1&" alt="menusha2k1" /></p>
