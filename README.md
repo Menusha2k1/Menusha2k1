@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Menusha</h1>
+ter<h1 align="center">Hi 👋, I'm Menusha</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menusha2k1&label=Profile%20views&color=0e75b6&style=flat" alt="menusha2k1" /> </p>
