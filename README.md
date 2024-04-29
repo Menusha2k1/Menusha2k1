@@ -1,10 +1,15 @@
 
-<div align="center"><img  src="https://asciinema.org/a/375254 375254.gif" width="500px"></div>
 <div align="center"><img  src="https://github.com/Menusha2k1/Menusha2k1/blob/main/Images/Untitled-1.png" width="500px"></div>
 <h1 align="center">Hi 👋, I'm Menusha</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=menusha2k1&label=Profile%20views&color=0e75b6&style=flat" alt="menusha2k1" /> </p>
+
+<div align="center">
+  <ul align="center">
+    <li> 👨‍🎓 I'm an undergraduate at SLIIT</li>
+  </ul>
+</div>
 
 ---
 <h3 align="center">Connect with me:</h3>
