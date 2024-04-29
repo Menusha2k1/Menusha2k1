@@ -1,4 +1,4 @@
-<div><img src</div>
+<div align="center"><img  src="https://github.com/Menusha2k1/Menusha2k1/blob/main/Images/developer.jpg"</div>
 <h1 align="center">Hi 👋, I'm Menusha</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
