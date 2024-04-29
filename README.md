@@ -2,10 +2,11 @@
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=menusha2k1&label=Profile%20views&color=0e75b6&style=flat" alt="menusha2k1" /> </p>
-
+<div align="center">
 - 🔭 I’m currently working on **Spices Management System**
 
 - 📫 How to reach me **Thathsaramenusha2001@gmail.com**
+- </div>
 ---
 <h3 align="center">Connect with me:</h3>
 <p align="center">
